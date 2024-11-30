@@ -9,7 +9,7 @@ Displays the count of items in the cart.
 Includes navigation links to different pages.
 
 ## All Products Page
-Fetches and displays a list of products from the dummy API from Repo - https://github.com/ayush2342/dataRepo
+Fetches and displays a list of products from the dummy API 
 Allows editing of products with notifications on successful updates.
 Provides functionality to delete products with notifications on successful deletions.
 Includes sorting by price with an option to remove sorting.
