@@ -32,22 +32,3 @@ Redux: For state management.
 React-Toastify: For toast notifications.
 React-Router: For navigation.
 
-## Setup and Installation
-
-## Clone the Repository
-git clone https://github.com/ayush2342/ecommerce-react
-
-## Navigate to the Project Directory
-cd <project-directory>
-
-## Install Dependencies
-npm install
-
-## Start the Development Server
-npm start
-
-## eployment
-The application is hosted on https://ayush2342.github.io/ecommerce-react/
-
-## Video Explanation
-A video explaining the project, including the code and final product, is available at https://youtu.be/PYMWMzUzsb0
