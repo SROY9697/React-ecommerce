@@ -9,7 +9,7 @@ const ProductList = () => {
   const dispatch = useDispatch();
   const products = useSelector((state) => state.products.products);
   const loading = useSelector((state) => state.products.loading);
-  const error = useSelector((state) => state.products.error);
+  //const error = useSelector((state) => state.products.error);
  // const [isSorted, setIsSorted] = useState(false);
 
   useEffect(() => {
