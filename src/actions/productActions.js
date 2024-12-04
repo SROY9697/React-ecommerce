@@ -36,17 +36,4 @@ export const deleteProduct = (id) => (dispatch) => {
   toast.success("Product deleted successfully!");
 };
 
-export const sortProductsByPrice = () => (dispatch) => {
-  dispatch({
-    type: "SORT_PRODUCTS_BY_PRICE",
-  });
-  toast.info("Products sorted by price!");
-};
 
-export const clearSort = (products) => (dispatch) => {
-  dispatch({
-    type: "CLEAR_SORT",
-    payload: products,
-  });
-  toast.info("Sort cleared!");
-};
